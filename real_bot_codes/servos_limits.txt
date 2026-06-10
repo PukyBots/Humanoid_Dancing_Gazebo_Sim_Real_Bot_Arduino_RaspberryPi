@@ -1,0 +1,8 @@
+channel 1- left shoulder- 50 up to 130 down- 90 is center- wires blue grey orange (gnd vcc data)
+channel 5- right shoulder- 10 down to 130 up- 80 is center- wires black blue yellow (gnd vcc data)
+channel 9- face- 20 right to 160 left- 95 is center- wires black brown yellow (gnd vcc data)
+
+SERVOMIN = 100
+SERVOMAX = 500
+
+
